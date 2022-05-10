@@ -1,2 +1,2 @@
-# ML-AFINN-Model
-Comparing machine learning sentiment analysis (AFINN) versus LIWC in predicting Rumination
+# ML-SVM-Model
+Comparing machine learning sentiment analysis (SVM) versus LIWC in predicting Rumination
